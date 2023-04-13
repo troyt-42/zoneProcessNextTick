@@ -1,0 +1,11 @@
+{
+  "name": "zoneProcessNextTick",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:troyt-42/zoneProcessNextTick.git",
+  "author": "Troy Tao <troy@faire.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zone.js": "^0.13.0"
+  }
+}
